@@ -1,0 +1,2 @@
+# WeChat-align-bottom
+Android端的模仿微信朋友圈评论弹出输入框与listView底部对齐Demo
